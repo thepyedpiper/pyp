@@ -2,3 +2,5 @@ remote_theme: b2a3e8/jekyll-theme-console
 style: hacker
 google_analytics: UA-24927622-3
 
+
+theme: jekyll-theme-cayman
