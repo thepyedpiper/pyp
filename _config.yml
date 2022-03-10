@@ -1,6 +1,7 @@
-remote_theme: b2a3e8/jekyll-theme-console
-style: hacker
+#remote_theme: b2a3e8/jekyll-theme-console
+#style: hacker
+
+theme: jekyll-theme-cayman
 google_analytics: UA-24927622-3
 
 
-theme: jekyll-theme-cayman
