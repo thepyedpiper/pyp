@@ -1,4 +1,3 @@
-{:toc}
 
 
 # Piper in the Media
