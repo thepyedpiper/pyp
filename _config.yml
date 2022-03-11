@@ -4,3 +4,5 @@ remote_theme: just-the-docs/just-the-docs
 google_analytics: UA-24927622-3
 
 
+
+theme: jekyll-theme-leap-day
