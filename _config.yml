@@ -1,8 +1,10 @@
 
-remote_theme: just-the-docs/just-the-docs
+##remote_theme: just-the-docs/just-the-docs
 ##theme: jekyll-theme-leap-day
-google_analytics: UA-24927622-3
+
 
 
 
 theme: jekyll-theme-leap-day
+
+google_analytics: UA-24927622-3
