@@ -1,7 +1,5 @@
 # Tutorials and Other Media
 
-
-
 ![pyp logo](https://opensource.imageworks.com/images/large/pyp.jpg)
 
 * [Official pyp tutorial from Sony Picture's Imageworks](https://www.youtube.com/watch?v=eWtVWF0JSJA)
