@@ -1,5 +1,5 @@
 1. Piping Python Through Pipes
-{:toc}
+
 
 `ls | pyp "p.replace('maybe','yes') | pp.sort() | pp[1:3] |p , p , p.strip('abc') | whitespace | p[3], 'no'"`
 
@@ -36,6 +36,7 @@ For power users, commands can be easily saved and recalled from disk as `macros`
 
 2. A Quick Tour
 {:toc}
+
 The simplest pyp example shows how python string methods can be used easily on the command line. For example, to split up the different columns of a linux long listing, we just use the split method with pyp's line-by-line variable "p"
 
 `ls -l | pyp "p.split()"`
