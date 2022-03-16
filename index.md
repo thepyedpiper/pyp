@@ -1,5 +1,4 @@
 
-# Intro
 
 
 # Piping Python Through Pipes
