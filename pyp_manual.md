@@ -1,7 +1,5 @@
 
 
-# INTRO
-
 The pyed piper, or pyp, is a command line utility for parsing text output and generating complex unix commands using standard python methods. pyp is powered by python, so any standard python string or list operation is available.
 
 The variable "`p`" represents EACH line of the input, so for example, if p is a string, you can replace all `FOO` with `GOO` using `p.replace('FOO','GOO')`. Likewise, the variable `pp` represents the ENTIRE input as a python list, so to sort the input alphabetically line-by-line, use `pp.sort()`
