@@ -1,4 +1,4 @@
-
+# pyp Manual
 
 The pyed piper, or pyp, is a command line utility for parsing text output and generating complex unix commands using standard python methods. pyp is powered by python, so any standard python string or list operation is available.
 
