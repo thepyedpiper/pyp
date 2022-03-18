@@ -2,7 +2,7 @@
 
 Please note:
 There are multiple pyp solutions listed for legacy commands, starting with canonical python
-and then including increasing levels of shortcuts.
+and then including increasing levels of shortcuts.  Please use whatever makes sense to you.  
 
 
 | LEGACY       | PYP            | NOTES                                      |
