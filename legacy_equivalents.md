@@ -1,9 +1,8 @@
 # Legacy Equivalents
 
-Please note:
 There are multiple pyp solutions listed for legacy commands, starting with canonical python
 and then including increasing levels of shortcuts.  Please use whatever makes sense to you.  
-
+The pyp [manual](https://thepyedpiper.github.io/pyp/pyp_manual.html) has a full list of shortcuts and special functions.
 
 | LEGACY       | PYP            | NOTES                                      |
 |:-------------|:------------------|:-------------------------------------------|
