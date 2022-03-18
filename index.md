@@ -5,8 +5,6 @@
 
 ![pyp through pipe gif](https://github.com/thepyedpiper/pyp/blob/gh-pages/pyp_vo_mx_v1.gif)
 
-testing
-
 
 
 
