@@ -1,6 +1,6 @@
 # Legacy Equivalents
 
-There are multiple pyp solutions listed for legacy commands, starting with canonical python and then including increasing levels of shortcuts.  Please use whatever makes sense to you.  The pyp [manual](https://thepyedpiper.github.io/pyp/pyp_manual.html) has a full list of shortcuts and special functions.  Remember, `p` represents every line as a python `string` object, while `pp` represents the entire input as a python `list` object
+There are multiple pyp solutions listed for legacy commands, starting with canonical python and then including increasing levels of shortcuts.  Please use whatever makes sense to you.  The pyp [manual](https://thepyedpiper.github.io/pyp/pyp_manual.html) has a full list of shortcuts and special functions.  Remember, `p` represents every line as a python `string` object, while `pp` represents the entire input as a python `list` object.
 
 | LEGACY       | PYP            | NOTES                                      |
 |:-------------|:------------------|:-------------------------------------------|
