@@ -1,8 +1,7 @@
 # Tutorials/Media
 
-![pyp logo](https://opensource.imageworks.com/images/large/pyp.jpg)
+![pyp shirt](https://github.com/thepyedpiper/pyp/blob/gh-pages/piedpipershirt.gif?raw=true)
 
-<iframe src="https://giphy.com/embed/xTiTnk6BdnD5Sce72o" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hbo-silicon-valley-sxsw-pied-piper-xTiTnk6BdnD5Sce72o">via GIPHY</a></p>
 
 * [Official pyp tutorial from Sony Picture's Imageworks](https://www.youtube.com/watch?v=eWtVWF0JSJA)
 
