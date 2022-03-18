@@ -1,8 +1,6 @@
 # Legacy Equivalents
 
-There are multiple pyp solutions listed for legacy commands, starting with canonical python
-and then including increasing levels of shortcuts.  Please use whatever makes sense to you.  
-The pyp [manual](https://thepyedpiper.github.io/pyp/pyp_manual.html) has a full list of shortcuts and special functions.
+There are multiple pyp solutions listed for legacy commands, starting with canonical python and then including increasing levels of shortcuts.  Please use whatever makes sense to you.  The pyp [manual](https://thepyedpiper.github.io/pyp/pyp_manual.html) has a full list of shortcuts and special functions.
 
 | LEGACY       | PYP            | NOTES                                      |
 |:-------------|:------------------|:-------------------------------------------|
@@ -13,11 +11,11 @@ The pyp [manual](https://thepyedpiper.github.io/pyp/pyp_manual.html) has a full 
 | cut -d / -f 3 | p.split('/')[2] | standard python technique |
 | cut -d / -f 3 |slash[2] |`slash`  is array of line split on `/` |
 | cut -d / -f 3 | s[2] | `s` is shortcut for `slash`|
-| grep X      | keep("X")         |      standard grep                                      |
-| grep X      | k("X")        | shortcut notation
-| grep -E "l.*y" | rekeep('l.*y') | grep with regex | 
+| grep X      | keep("X")         |      standard `grep`                                      |
+| grep X      | k("X")        | shortcut `grep` notation |
+| grep -E "l.*y" | rekeep('l.*y') | `grep` with regex | 
 | grep -v X    | lose("X")        | reverse `grep` |
-| grep -v X    | l("X")        | shortcut notation|
+| grep -v X    | l("X")        | shortcut reverse `grep` notation|
 | grep -v -E "l.*y" | relose('l.*y') | reverse `grep` with regex |
 | head 10 | pp[0:9] |standard python list notation|
 |sed s/legacy/pyp/ | p.replace('legacy','pyp') | standard python string method|
