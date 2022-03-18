@@ -12,8 +12,10 @@
 | cut -d / -f 3 | s[2] | s is shortcut for slash|
 | grep X       | keep("X")         |                                            |
 | grep X       | k("X")         | shortcut notation
+| grep -E "l.*y" | rekeep('l.*y') | grep with regex | 
 | grep -v X    | lose("X")         | |
 | grep -v X    | l("X")         | shortcut notation|
+| grep -v -E "l.*y" | relose('l.*y') | reverse grep with regex |
 | head 10 | pp[0:9] |standard python list notation|
 |sed s/legacy/pyp/ | p.replace('legacy','pyp') | standard python string method|
 |sed s/@// | p.replace('@','') | standard python string method|
