@@ -25,4 +25,6 @@ There are multiple pyp solutions listed for legacy commands, starting with canon
 |sort -u| pp.uniq()| custom pyp funtion|
 |tail 10| pp[-10:]|standard python list notation| 
 |xargs | pp.oneline() | custom pyp function that makes list one line |
-
+|???| p.ext | returns just file extension |
+|???| p.file | returns just the file name |
+|???| p.dir | returns just the directory |
