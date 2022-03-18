@@ -1,6 +1,6 @@
 
 
-![pyp through pipe gif](https://github.com/thepyedpiper/pyp/blob/gh-pages/pyp_vo_mx_v2.gif?raw=true)
+![pyp through pipe gif](https://github.com/thepyedpiper/pyp/blob/gh-pages/pyp_vo_mx_v3.gif?raw=true)
 
 
 1. Piping Python Through Pipes
@@ -29,8 +29,6 @@ pyp output has been optimized for typical production scenarios. For example, if 
 
 `[[0]random_frame[1]jpg]` 
 
-
-![split](https://github.com/thepyedpiper/pyp/blob/gh-pages/split_v2.gif?raw=true)
  
 
 Numerous other conveniences have been included, such as an accessible history of all inter-pipe sub-results, an ability to perform mathematical operations, and a complement of variables based on common metacharcter `split/join` operations.
