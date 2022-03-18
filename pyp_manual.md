@@ -1,6 +1,6 @@
 # Manual
 
-![functions](https://github.com/thepyedpiper/pyp/blob/gh-pages/functions.gif?raw=true)
+![functions](https://github.com/thepyedpiper/pyp/blob/gh-pages/functions_v2.gif?raw=true)
 
 
 
