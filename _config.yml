@@ -2,3 +2,4 @@
 remote_theme: just-the-docs/just-the-docs
 logo: "https://opensource.imageworks.com/images/large/pyp.jpg"
 ga_tracking: UA-24927622-3
+color_scheme: dark
