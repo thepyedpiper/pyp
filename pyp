@@ -1,7 +1,7 @@
 #!/usr/bin/python2
 # version  2.14
 # author   tobyrosen@gmail.com
-
+# for python 2.7
 # Copyright (c) 2011-2015, Toby Rosen
 
 # Changes by Helmut Jarausch 2017
