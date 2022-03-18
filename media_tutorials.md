@@ -1,6 +1,7 @@
 # Tutorials and Other Media
 
 ![pyp logo](https://opensource.imageworks.com/images/large/pyp.jpg)
+![pyp through pipe](https://github.com/thepyedpiper/pyp/blob/gh-pages/pyp_vo_mx_v1.gif)
 
 * [Official pyp tutorial from Sony Picture's Imageworks](https://www.youtube.com/watch?v=eWtVWF0JSJA)
 
