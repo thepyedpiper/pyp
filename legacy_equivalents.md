@@ -1,14 +1,16 @@
 # Legacy Equivalents
 
-
+Please note there are multiple pyp solutions listed for legacy commands, starting with canonical python and then including increasing levels of shortcuts.
 
 
 | LEGACY       | PYP            | NOTES                                      |
 |:-------------|:------------------|:-------------------------------------------|
-| awk '{print $1}'| whitespace[0] ||
+| awk '{print $1}'| p.split()[0] |splits line on whitespace, selects first field|
+| awk '{print $1}'| whitespace[0] | whitespace is array of line split on whitespace|
 | awk '{print $1}'| w[0] | w is shortcut for whitespace|
-| awk '{print $3 $2 $1}'| w[2],w[1],w[0] ||
-| cut -d / -f 3 | slash[2] ||
+| awk '{print $3 $2 $1}'| w[2],w[1],w[0] | you can use + instead of , for no spaces|
+| cut -d / -f 3 | p.split('/')[2] | standard python technique |
+| cut -d / -f 3 | slash[2] |slash  is array of line split on `/` |
 | cut -d / -f 3 | s[2] | s is shortcut for slash|
 | grep X       | keep("X")         |                                            |
 | grep X       | k("X")         | shortcut notation
