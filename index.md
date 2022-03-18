@@ -3,7 +3,8 @@
 
 `ls | pyp "p.replace('maybe','yes') | pp.sort() | pp[1:3] |p , p , p.strip('abc') | whitespace | p[3], 'no'"`
 
-![pyp through pipe](https://github.com/thepyedpiper/pyp/blob/gh-pages/pyp_vo_mx_v1.gif)
+
+![pyp through pipe gif](https://github.com/thepyedpiper/pyp/blob/gh-pages/pyp_vo_mx_v1.gif)
 
 
 
