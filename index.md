@@ -3,6 +3,15 @@
 
 `ls | pyp "p.replace('maybe','yes') | pp.sort() | pp[1:3] |p , p , p.strip('abc') | whitespace | p[3], 'no'"`
 
+![pyp through pipe](https://github.com/thepyedpiper/pyp/blob/gh-pages/pyp_vo_mx_v1.gif)
+
+
+
+
+
+
+
+
 Pyp is a linux command line text manipulation tool similar to awk or sed, but which uses standard python string and list methods as well as custom functions evolved to generate fast results in an intense production environment.Pyed Pyper was developed at Sony Pictures Imageworks to facilitate the construction of complex image manipulation "one-liner" commands and has been used for visual effects work on Spiderverse, The Meg, and the Mitchell Vs The Machines.  Although originally released in 2012 with the technical needs of Visual Effects in mind, pyp has been used successfully in a wide range of fields where a quick, ad hoc programming environment is needed including particle physics, bioninformatics and espionage.
 
    Text parsing and manipulations techniques in formal programming settings have made incredible strides since the 1970s and 1980s, but unfortunately this hasn't been reflected when directly interacting with UNIX terminal, which still reigns supreme in many technical settings.  Pyp aims fill this gap by consolidating the plethora of powerful but painfully idiosyncratic "classic" commands (awk, sed, grep, tr, perl -p, etc) into rational and human readable python based statements.  Because of this, pyp has appeared on the sylibi of major educational institutions such as [Stanford](https://web.stanford.edu/class/physics91SI/cgi-bin/?page_id=317) as a modern alternative to legacy techniques.
