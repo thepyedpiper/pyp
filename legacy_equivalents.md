@@ -18,7 +18,6 @@
 |sed s/legacy/pyp/ | p.replace('legacy','pyp') | standard python string method|
 |sed s/@// | p.replace('@','') | standard python string method|
 |sed s/@// | p.kill('@') | custom pyp string function| 
-
 | sort | pp.sort()|standard pyp list method|
 |sort -u| pp.uniq()| custom pyp funtion|
 |tail 10| pp[-10:]|standard python list notation| 
