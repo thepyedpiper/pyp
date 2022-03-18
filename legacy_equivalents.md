@@ -1,6 +1,7 @@
 # Legacy Equivalents
 
-Please note there are multiple pyp solutions listed for legacy commands, starting with canonical python
+Please note:
+There are multiple pyp solutions listed for legacy commands, starting with canonical python
 and then including increasing levels of shortcuts.
 
 
