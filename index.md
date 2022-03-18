@@ -28,9 +28,20 @@ pyp output has been optimized for typical production scenarios. For example, if 
 `ls random_frame.jpg | pyp "p.split('.')`
 
 `[[0]random_frame[1]jpg]` 
+
+
+
  
 
 Numerous other conveniences have been included, such as an accessible history of all inter-pipe sub-results, an ability to perform mathematical operations, and a complement of variables based on common metacharcter `split/join` operations.
+
+
+
+![split](https://github.com/thepyedpiper/pyp/blob/gh-pages/split.gif?raw=true)
+
+
+
+
 
 For power users, commands can be easily saved and recalled from disk as `macros`, providing an alternative to quick and dirty scripting. For the truly advanced user, additional methods can be added to the pyp class via a config file, allowing tight integration with larger facilities data structures or custom toolsets.
 
