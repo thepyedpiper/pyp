@@ -11,9 +11,11 @@ There are multiple pyp solutions listed for legacy commands, starting with canon
 | cut -d / -f 3 | p.split('/')[2] | standard python technique |
 | cut -d / -f 3 |slash[2] |`slash`  is array of line split on `/` |
 | cut -d / -f 3 | s[2] | `s` is shortcut for `slash`|
+|expr 1 + 1 | (1 + 1) | you must use parantheses for math ops |
 | grep X      | keep("X")         |      standard `grep`                                      |
 | grep X      | k("X")        | shortcut `grep` notation |
 | grep -E "l.*y" | rekeep('l.*y') | `grep` with regex | 
+| grep X -B 1 | pp.before('X',1) | keeps the line before the one grepped | 
 | grep -v X    | lose("X")        | reverse `grep` |
 | grep -v X    | l("X")        | shortcut reverse `grep` notation|
 | grep -v -E "l.*y" | relose('l.*y') | reverse `grep` with regex |
@@ -25,6 +27,6 @@ There are multiple pyp solutions listed for legacy commands, starting with canon
 |sort -u| pp.uniq()| custom pyp funtion|
 |tail 10| pp[-10:]|standard python list notation| 
 |xargs | pp.oneline() | custom pyp function that makes list one line |
-|???| p.ext | returns just file extension |
+|???| p.ext | returns just the file extension |
 |???| p.file | returns just the file name |
 |???| p.dir | returns just the directory |
