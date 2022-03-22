@@ -16,7 +16,7 @@ Special thanks to
 
 |          |          |  |
 |:-------------|:------------------|:------|
-|Helmut Jarausch  |       speed enhancements and other updates|
+|Helmut Jarausch  |       speed enhancements and Python 3 help|
 |Max Smythe    |          regular expression updates |
 |Stephen Winters      |   coding tutorial |
 |Zach Connoly, Patrick Clark        |    Code Review |
