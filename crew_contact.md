@@ -21,6 +21,7 @@ Special thanks to
 |Stephen Winters      |   coding tutorial |
 |Zach Connoly, Patrick Clark        |    Code Review |
 |Miles Todorof | Perl vs Python argument |
+|Mike Judge | Promotional Services |
 
 
 # Contact
