@@ -1,7 +1,11 @@
 # Crew/Contact
 ![pyed_piper credits](https://github.com/thepyedpiper/pyp/blob/gh-pages/credit.gif)
 
-pyp code                               Toby Rosen
+
+|          |          |  |
+|:-------------|:------------------|:------|
+
+|pyp code  |                             Toby Rosen|
 logo                  |                Larry Danielles
 Motion Graphics                        David Lee
 PST exectutive                         Andrea Pace
