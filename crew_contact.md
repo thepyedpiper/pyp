@@ -14,12 +14,16 @@
 
 Special thanks to 
 
-
+|          |          |  |
 |:-------------|:------------------|:------|
 |Helmut Jarausch  |       speed enhancements and other updates|
 |Max Smythe    |          regular expression updates |
 |Stephen Winters      |   coding tutorial |
 |Zach Connoly, Patrick Clark        |    Code Review |
+
+
+# Contact
+thepyedpiper @ gmail.com
 
 
 
