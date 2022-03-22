@@ -4,7 +4,7 @@
 
 |          |          |  |
 |:-------------|:------------------|:------|
-|pyp code  |                             Toby Rosen|
+|pyp concept and code  |                             Toby Rosen|
 |logo                  |                Larry Danielles|
 |Motion Graphics          |              David Lee |
 |Development              |           Andrea Pace |
@@ -20,6 +20,7 @@ Special thanks to
 |Max Smythe    |          regular expression updates |
 |Stephen Winters      |   coding tutorial |
 |Zach Connoly, Patrick Clark        |    Code Review |
+|Miles Todorof | Perl vs Python argument |
 
 
 # Contact
