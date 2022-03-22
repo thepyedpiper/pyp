@@ -7,7 +7,7 @@
 |pyp concept and code  |                             Toby Rosen|
 |logo                  |                Larry Danielles|
 |Motion Graphics          |              David Lee |
-|Development              |           Andrea Pace |
+|Development Management         |           Andrea Pace |
 | Chief Technology Officer |                                    Rob Bredow |
 |PST leads                 |             Greg Newman, Mark Dietel |
 
