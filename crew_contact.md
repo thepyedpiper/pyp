@@ -4,9 +4,10 @@
 
 |          |          |  |
 |:-------------|:------------------|:------|
-
 |pyp code  |                             Toby Rosen|
-logo                  |                Larry Danielles
+|logo                  |                Larry Danielles|
+
+
 Motion Graphics                        David Lee
 PST exectutive                         Andrea Pace
 CTO                                    Rob Bredow
