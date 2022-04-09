@@ -1,4 +1,4 @@
-!(pyp logo)[https://opensource.imageworks.com/images/large/pyp.jpg]
+![pyp logo](https://opensource.imageworks.com/images/large/pyp.jpg)
 
 # pyp
 The Pyed Piper: Python Power At the Prompt
