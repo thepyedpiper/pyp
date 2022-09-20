@@ -21,11 +21,13 @@ Special thanks to
 |Stephen Winters      |   coding tutorial |
 |Zach Connoly, Patrick Clark        |    Code Review |
 |Miles Todorof | Perl vs Python argument |
-|Mike Judge | Promotional Services |
+|Mike Judge* | Promotional Services |
 
 
 # Contact
 thepyedpiper @ gmail.com
+
+* For humorous purposes only.  Mike Judge/Silicon Valley have no connection to pyp. 
 
 
 
