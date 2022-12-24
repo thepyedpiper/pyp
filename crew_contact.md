@@ -10,7 +10,7 @@
 |Development Management         |           Andrea Pace |
 | Chief Technology Officer |                                    Rob Bredow |
 |PST leads                 |             Greg Newman, Mark Dietel |
-
+| Larry Gritz | Open Source Projects Management |
 
 Special thanks to 
 
@@ -21,6 +21,7 @@ Special thanks to
 |Stephen Winters      |   coding tutorial |
 |Zach Connoly, Patrick Clark        |    Code Review |
 |Miles Todorof | Perl vs Python argument |
+|Jonathan Nelson | xargs cut/paste code update |
 |Mike Judge* | Promotional Services |
 
 
