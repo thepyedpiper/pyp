@@ -1,6 +1,6 @@
 # Tutorials/Media
 
-![pyp shirt](https://github.com/thepyedpiper/pyp/blob/gh-pages/piedpipershirt.gif?raw=true)
+
 
 # Tutorials
 * [Official pyp tutorial from Sony Picture's Imageworks [YouTube]](https://www.youtube.com/watch?v=eWtVWF0JSJA)
