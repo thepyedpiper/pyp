@@ -1,4 +1,4 @@
-# GitHub/Download
+#Download
 
 ![intro](https://github.com/thepyedpiper/pyp/blob/gh-pages/intro_v2.gif?raw=true)
 
