@@ -1,4 +1,7 @@
 # License/Copyright 
+
+
+# Licence
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -24,7 +27,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 
-
+# Copyright
 (c) Copyright Sony Pictures Imageworks, et al.
 
 
