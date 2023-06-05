@@ -8,8 +8,8 @@
 |logo                  |                Larry Danielles|
 |Motion Graphics          |              David Lee |
 |Development Management         |           Andrea Pace |
-| Chief Technology Officer |                                    Rob Bredow |
-|PST leads                 |             Greg Newman, Mark Dietel |
+| Chief Technology Officer |          Michael Ford |
+|PST leads                 |           Zack Connoly, Greg Newman, Mark Dietel |
 | Larry Gritz | Open Source Projects Management |
 
 Special thanks to 
