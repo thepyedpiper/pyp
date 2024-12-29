@@ -3,7 +3,7 @@
 ![pyp through pipe gif](https://github.com/thepyedpiper/pyp/blob/gh-pages/pyp_vo_mx_v3.gif?raw=true)
 
 # pyp BETA is coming First Quarter 2025
-We've revamped the engine replacing arrays with generators in key areas, yielding up to a 30 fold for some common operations.  
+We've revamped the engine replacing arrays with generators in key areas, yielding up to a 30 fold speed up for some common operations.  
 You can take a look at the alpha [here.](https://github.com/thepyedpiper/pyp/releases/tag/v3.0.11)
 
 
