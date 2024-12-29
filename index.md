@@ -2,6 +2,11 @@
 
 ![pyp through pipe gif](https://github.com/thepyedpiper/pyp/blob/gh-pages/pyp_vo_mx_v3.gif?raw=true)
 
+# Pyed Piper BETA is coming First Quarter 2025
+We've revamped the engine replacing arrays with generators in key areas, yielding up to a 30 fold for some common operations.  
+You can take a look at the alpha ![here](https://github.com/thepyedpiper/pyp/releases/tag/v3.0.11): 
+
+
 # Pyed Piper Celebrates its 10 Year Anniversary with an Epic Update!
 pyp power is back in full force!  To celebrate our first decade, we've pushed out a huge update!  Our codebase has been retooled to Python 3, we've incorporated vast speed improvements (up to 200x faster for large inputs), and we've dropped in features previously available only in the beta releases. Over the last few years, pyp has seen use in Oscar-winning animated films such as _Spider-Man: Into the Spider-Verse_ as well as diverse application in other data heavy fields including use at Cern and in Bioinformatics.  We've had such great feedback from the community over the years, and have incorporated many heavily requested features and bug fixes for this rollout!
 
