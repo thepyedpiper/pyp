@@ -4,7 +4,7 @@
 
 # Pyed Piper BETA is coming First Quarter 2025
 We've revamped the engine replacing arrays with generators in key areas, yielding up to a 30 fold for some common operations.  
-You can take a look at the alpha [here](https://github.com/thepyedpiper/pyp/releases/tag/v3.0.11): 
+You can take a look at the alpha [here.](https://github.com/thepyedpiper/pyp/releases/tag/v3.0.11)
 
 
 # Pyed Piper Celebrates its 10 Year Anniversary with an Epic Update!
