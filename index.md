@@ -2,11 +2,25 @@
 
 ![pyp through pipe gif](https://github.com/thepyedpiper/pyp/blob/gh-pages/pyp_vo_mx_v3.gif?raw=true)
 
-# pyp BETA is coming First Quarter 2025
-We've revamped the engine replacing arrays with generators in key areas, yielding up to a 30-fold speed up for some common operations.  
+# pyp BETA is HERE 
+3/10/25
 
-You can take a look at the alpha [here.](https://github.com/thepyedpiper/pyp/releases/tag/v3.0.11)
+We've revamped the engine replacing arrays with generators in key areas, yielding up to a 30-fold speed up for some common operations.  We also were able to precompile some of executable strings to bytecode.  Thank you to `Krackers` for coding help on this.  Also thanks to the Sony Imageworks PST department for testing the Alpha. 
 
+Metrics on the speedup are insane...running this:
+
+ `seq 1 235976 | pyp "p | pp[-1]"`
+
+ yielded the following results:
+
+ pyp 3.0.9  (release) :             40.51s
+ pyp 3.1.03 (beta)    :              2.73s
+
+
+
+You can download the Beta [here.]([https://github.com/thepyedpiper/pyp/releases/tag/v3.0.11](https://github.com/thepyedpiper/pyp/releases/tag/3.1.03))
+
+Please let us know if you hit any issues.  This release should be functionally transparent to the release with the exception of the speedup and a new flag to better handle caching behavior.
 
 # Pyed Piper Celebrates its 10 Year Anniversary with an Epic Update!
 pyp power is back in full force!  To celebrate our first decade, we've pushed out a huge update!  Our codebase has been retooled to Python 3, we've incorporated vast speed improvements (up to 200x faster for large inputs), and we've dropped in features previously available only in the beta releases. Over the last few years, pyp has seen use in Oscar-winning animated films such as _Spider-Man: Into the Spider-Verse_ as well as diverse application in other data heavy fields including use at Cern and in Bioinformatics.  We've had such great feedback from the community over the years, and have incorporated many heavily requested features and bug fixes for this rollout!
