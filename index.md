@@ -17,7 +17,7 @@ Metrics on the speedup are insane...running this:
 
  * `pyp 3.0.9`  (release) :             40.51s
  
- * `pyp 3.1.03    ` (beta)      :              2.73s
+ * `pyp 3.1.03 ` (beta)      :              2.73s
 
 
 
