@@ -19,7 +19,7 @@ Metrics on the speedup are insane...running this:
 
 
 
-You can download the Beta [here.](https://github.com/thepyedpiper/pyp/releases/tag/v3.0.11](https://github.com/thepyedpiper/pyp/releases/tag/3.1.03)
+You can download the Beta [here](https://github.com/thepyedpiper/pyp/releases/tag/v3.0.11](https://github.com/thepyedpiper/pyp/releases/tag/3.1.03)
 
 Please let us know if you hit any issues.  This release should be functionally transparent to the release with the exception of the speedup and a new flag to better handle caching behavior.
 
