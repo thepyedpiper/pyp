@@ -5,7 +5,7 @@
 # pyp BETA is HERE 
 3/10/25
 
-We've revamped the engine replacing arrays with generators in key areas, yielding up to a 30-fold speed up for some common operations.  We also were able to precompile some of executable strings to bytecode.  Thank you to `Krackers` for coding help on this.  Also thanks to the Sony Imageworks PST department for testing the Alpha. 
+We've revamped the engine replacing arrays with generators in key areas, yielding up to a 30-fold speed up for some common operations.  We also were able to precompile some of executable strings to bytecode.  Thank you to `Krackers` for coding help on this.  Also thanks to Jonathon Nelson and the Sony Imageworks PST department for testing the Alpha. 
 
 Metrics on the speedup are insane...running this:
 
@@ -20,6 +20,8 @@ Metrics on the speedup are insane...running this:
 
 
 You can download the Beta [here](https://github.com/thepyedpiper/pyp/releases/tag/v3.1.03)
+
+
 Please let us know if you hit any issues.  This release should be functionally transparent to the release with the exception of the speedup and a new flag to better handle caching behavior.
 
 # Pyed Piper Celebrates its 10 Year Anniversary with an Epic Update!
