@@ -25,7 +25,7 @@ Metrics on the speedup are insane...running this:
 
 
 
-You can download the Beta [here](https://github.com/thepyedpiper/pyp/releases/tag/v3.1.03)
+You can download the Beta [here](https://github.com/thepyedpiper/pyp/releases/tag/3.1.03)
 
 
 
