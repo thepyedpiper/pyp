@@ -2,7 +2,7 @@
 
 ![pyp through pipe gif](https://github.com/thepyedpiper/pyp/blob/gh-pages/pyp_vo_mx_v3.gif?raw=true)
 
-# pyp BETA is HERE 
+# pyp BETA is HERE!!!
 Los Angeles, CA, March 10, 2025 
 
 We've revamped the engine replacing arrays with generators in key areas, yielding up to a 30-fold speed up for some common operations.  We also were able to precompile some of executable strings to bytecode.  Thank you to `Krackers` for coding help on this.  Also thanks to Jonathon Nelson, Andrea Pace, and Zac Connolly at the Sony Imageworks PSR department for preliminary testing.
